@@ -168,3 +168,13 @@ There are two probe requests and two probe responses.
   - Source address: 00:16:b6:f7:1d:51
   - Destination address: 00:13:02:d1:b6:4f
   - BSS ID: 00:16:b6:f7:1d:51
+
+2.
+- Probe request:
+  - Source address: 00:12:f0:1f:57:13
+  - Destination address: ff:ff:ff:ff:ff:ff
+  - BSS ID: ff:ff:ff:ff:ff:ff
+- Probe response:
+  - Source address: 00:16:b6:f7:1d:51
+  - Destination address: 00:12:f0:1f:57:13
+  - BSS ID: 00:16:b6:f7:1d:51
